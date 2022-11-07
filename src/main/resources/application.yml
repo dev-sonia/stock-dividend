@@ -21,3 +21,7 @@ spring:
     url: jdbc:h2:mem:financial;DB_CLOSE_DELAY=-1
     username: sa
     password: a1234
+
+scheduler:
+  scrap:
+    yahoo: "0 0 0 * * *"

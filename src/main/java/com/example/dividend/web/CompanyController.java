@@ -4,14 +4,11 @@ import com.example.dividend.model.Company;
 import com.example.dividend.persist.entity.CompanyEntity;
 import com.example.dividend.service.CompanyService;
 import lombok.AllArgsConstructor;
-import org.aspectj.bridge.ICommand;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
 import org.springframework.util.ObjectUtils;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.List;
 
 @RestController
 @AllArgsConstructor
