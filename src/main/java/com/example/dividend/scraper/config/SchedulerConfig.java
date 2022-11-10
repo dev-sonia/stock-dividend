@@ -1,4 +1,4 @@
-package com.example.dividend.config;
+package com.example.dividend.scraper.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.SchedulingConfigurer;

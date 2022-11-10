@@ -1,4 +1,4 @@
-package com.example.dividend.config;
+package com.example.dividend.scraper.config;
 
 import org.apache.commons.collections4.Trie;
 import org.apache.commons.collections4.trie.PatriciaTrie;
